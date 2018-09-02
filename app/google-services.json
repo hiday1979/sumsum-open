@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "564758856763",
+    "firebase_url": "https://sumsum-gates.firebaseio.com",
+    "project_id": "sumsum-gates",
+    "storage_bucket": "sumsum-gates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564758856763:android:a5f64b662d8531ba",
+        "android_client_info": {
+          "package_name": "susmsum.gates.vice.hiday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564758856763-uo04gvnca7mpvosm2bpenehrqta68s29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "susmsum.gates.vice.hiday",
+            "certificate_hash": "c9326e9913f207b670ad71282e6922116d31711e"
+          }
+        },
+        {
+          "client_id": "564758856763-81mkd03vqof3a3u1ja4bdbhko2shkbgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5VyLckPOYZe6Uh9m7XQD70rse4MblGXc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564758856763-81mkd03vqof3a3u1ja4bdbhko2shkbgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
